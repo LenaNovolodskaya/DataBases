@@ -1,0 +1,211 @@
+[
+  {
+    "seller_id": 1,
+    "product_id": 1,
+    "product_price": 80,
+    "product_count": 2765
+  },
+
+  {
+    "seller_id": 1,
+    "product_id": 2,
+    "product_price": 30,
+    "product_count": 3234
+  },
+
+  {
+    "seller_id": 1,
+    "product_id": 3,
+    "product_price": 120,
+    "product_count": 1947
+  },
+
+  {
+    "seller_id": 1,
+    "product_id": 4,
+    "product_price": 20,
+    "product_count": 2280
+  },
+
+  {
+    "seller_id": 1,
+    "product_id": 5,
+    "product_price": 25,
+    "product_count": 2394
+  },
+
+  {
+    "seller_id": 2,
+    "product_id": 6,
+    "product_price": 100,
+    "product_count": 5137
+  },
+
+  {
+    "seller_id": 2,
+    "product_id": 7,
+    "product_price": 150,
+    "product_count": 2836
+  },
+
+  {
+    "seller_id": 2,
+    "product_id": 11,
+    "product_price": 80,
+    "product_count": 1257
+  },
+
+  {
+    "seller_id": 2,
+    "product_id": 12,
+    "product_price": 50,
+    "product_count": 1284
+  },
+
+  {
+    "seller_id": 3,
+    "product_id": 8,
+    "product_price": 120,
+    "product_count": 896
+  },
+
+  {
+    "seller_id": 3,
+    "product_id": 9,
+    "product_price": 70,
+    "product_count": 2285
+  },
+
+  {
+    "seller_id": 3,
+    "product_id": 10,
+    "product_price": 150,
+    "product_count": 2280
+  },
+
+  {
+    "seller_id": 4,
+    "product_id": 13,
+    "product_price": 300,
+    "product_count": 783
+  },
+
+  {
+    "seller_id": 4,
+    "product_id": 14,
+    "product_price": 500,
+    "product_count": 562
+  },
+
+  {
+    "seller_id": 4,
+    "product_id": 15,
+    "product_price": 400,
+    "product_count": 584
+  },
+
+  {
+    "seller_id": 5,
+    "product_id": 1,
+    "product_price": 80,
+    "product_count": 1588
+  },
+
+  {
+    "seller_id": 5,
+    "product_id": 2,
+    "product_price": 30,
+    "product_count": 2515
+  },
+
+  {
+    "seller_id": 5,
+    "product_id": 3,
+    "product_price": 120,
+    "product_count": 2726
+  },
+
+  {
+    "seller_id": 5,
+    "product_id": 4,
+    "product_price": 20,
+    "product_count": 3583
+  },
+
+  {
+    "seller_id": 5,
+    "product_id": 5,
+    "product_price": 25,
+    "product_count": 3396
+  },
+
+  {
+    "seller_id": 5,
+    "product_id": 6,
+    "product_price": 100,
+    "product_count": 5174
+  },
+
+  {
+    "seller_id": 5,
+    "product_id": 7,
+    "product_price": 150,
+    "product_count": 4284
+  },
+
+  {
+    "seller_id": 5,
+    "product_id": 8,
+    "product_price": 120,
+    "product_count": 1573
+  },
+
+  {
+    "seller_id": 5,
+    "product_id": 9,
+    "product_price": 70,
+    "product_count": 3275
+  },
+
+  {
+    "seller_id": 5,
+    "product_id": 10,
+    "product_price": 150,
+    "product_count": 1571
+  },
+
+  {
+    "seller_id": 5,
+    "product_id": 11,
+    "product_price": 80,
+    "product_count": 2794
+  },
+
+  {
+    "seller_id": 5,
+    "product_id": 12,
+    "product_price": 50,
+    "product_count": 2194
+  },
+
+  {
+    "seller_id": 5,
+    "product_id": 13,
+    "product_price": 300,
+    "product_count": 1263
+  },
+
+  {
+    "seller_id": 5,
+    "product_id": 14,
+    "product_price": 500,
+    "product_count": 1847
+  },
+
+  {
+    "seller_id": 5,
+    "product_id": 15,
+    "product_price": 400,
+    "product_count": 1299
+  }
+]

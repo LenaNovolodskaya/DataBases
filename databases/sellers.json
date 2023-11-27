@@ -1,0 +1,31 @@
+[
+  {
+    "seller_id": 1,
+    "last_name": "Lebedev",
+    "first_name": "Anton"
+  },
+
+  {
+    "seller_id": 2,
+    "last_name": "Kuznetsov",
+    "first_name": "Dmitry"
+  },
+
+  {
+    "seller_id": 3,
+    "last_name": "Vasiliev",
+    "first_name": "Ivan"
+  },
+
+  {
+    "seller_id": 4,
+    "last_name": "Popov",
+    "first_name": "Alexander"
+  },
+
+  {
+    "seller_id": 5,
+    "last_name": "Volkov",
+    "first_name": "Pavel"
+  }
+]

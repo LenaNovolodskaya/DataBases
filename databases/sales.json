@@ -1,0 +1,481 @@
+[
+  {
+    "sale_id": 1,
+    "seller_id": 1,
+    "product_id": 1,
+    "product_count_sold": 337,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 2,
+    "seller_id": 1,
+    "product_id": 2,
+    "product_count_sold": 644,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 3,
+    "seller_id": 1,
+    "product_id": 3,
+    "product_count_sold": 184,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 4,
+    "seller_id": 1,
+    "product_id": 4,
+    "product_count_sold": 295,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 5,
+    "seller_id": 1,
+    "product_id": 5,
+    "product_count_sold": 314,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 6,
+    "seller_id": 1,
+    "product_id": 1,
+    "product_count_sold": 312,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 7,
+    "seller_id": 1,
+    "product_id": 2,
+    "product_count_sold": 567,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 8,
+    "seller_id": 1,
+    "product_id": 3,
+    "product_count_sold": 131,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 9,
+    "seller_id": 1,
+    "product_id": 4,
+    "product_count_sold": 242,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 10,
+    "seller_id": 1,
+    "product_id": 5,
+    "product_count_sold": 261,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 11,
+    "seller_id": 5,
+    "product_id": 1,
+    "product_count_sold": 273,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 12,
+    "seller_id": 5,
+    "product_id": 2,
+    "product_count_sold": 513,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 13,
+    "seller_id": 5,
+    "product_id": 3,
+    "product_count_sold": 74,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 14,
+    "seller_id": 5,
+    "product_id": 4,
+    "product_count_sold": 189,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 15,
+    "seller_id": 5,
+    "product_id": 5,
+    "product_count_sold": 201,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 16,
+    "seller_id": 5,
+    "product_id": 6,
+    "product_count_sold": 618,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 17,
+    "seller_id": 5,
+    "product_id": 7,
+    "product_count_sold": 373,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 18,
+    "seller_id": 5,
+    "product_id": 8,
+    "product_count_sold": 263,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 19,
+    "seller_id": 5,
+    "product_id": 9,
+    "product_count_sold": 284,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 20,
+    "seller_id": 5,
+    "product_id": 10,
+    "product_count_sold": 271,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 21,
+    "seller_id": 5,
+    "product_id": 11,
+    "product_count_sold": 53,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 22,
+    "seller_id": 5,
+    "product_id": 12,
+    "product_count_sold": 7,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 23,
+    "seller_id": 5,
+    "product_id": 13,
+    "product_count_sold": 68,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 24,
+    "seller_id": 5,
+    "product_id": 14,
+    "product_count_sold": 49,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 25,
+    "seller_id": 5,
+    "product_id": 15,
+    "product_count_sold": 52,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 26,
+    "seller_id": 5,
+    "product_id": 1,
+    "product_count_sold": 226,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 27,
+    "seller_id": 5,
+    "product_id": 2,
+    "product_count_sold": 564,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 28,
+    "seller_id": 5,
+    "product_id": 3,
+    "product_count_sold": 63,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 29,
+    "seller_id": 5,
+    "product_id": 4,
+    "product_count_sold": 172,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 30,
+    "seller_id": 5,
+    "product_id": 5,
+    "product_count_sold": 283,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 31,
+    "seller_id": 5,
+    "product_id": 6,
+    "product_count_sold": 579,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 32,
+    "seller_id": 5,
+    "product_id": 7,
+    "product_count_sold": 315,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 33,
+    "seller_id": 5,
+    "product_id": 8,
+    "product_count_sold": 273,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 34,
+    "seller_id": 5,
+    "product_id": 9,
+    "product_count_sold": 259,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 35,
+    "seller_id": 5,
+    "product_id": 10,
+    "product_count_sold": 216,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 36,
+    "seller_id": 5,
+    "product_id": 11,
+    "product_count_sold": 31,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 37,
+    "seller_id": 5,
+    "product_id": 12,
+    "product_count_sold": 9,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 38,
+    "seller_id": 5,
+    "product_id": 13,
+    "product_count_sold": 74,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 39,
+    "seller_id": 5,
+    "product_id": 14,
+    "product_count_sold": 58,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 40,
+    "seller_id": 5,
+    "product_id": 15,
+    "product_count_sold": 41,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 41,
+    "seller_id": 2,
+    "product_id": 6,
+    "product_count_sold": 384,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 42,
+    "seller_id": 2,
+    "product_id": 7,
+    "product_count_sold": 265,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 43,
+    "seller_id": 2,
+    "product_id": 11,
+    "product_count_sold": 38,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 44,
+    "seller_id": 2,
+    "product_id": 12,
+    "product_count_sold": 3,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 45,
+    "seller_id": 2,
+    "product_id": 6,
+    "product_count_sold": 412,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 46,
+    "seller_id": 2,
+    "product_id": 7,
+    "product_count_sold": 381,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 47,
+    "seller_id": 2,
+    "product_id": 11,
+    "product_count_sold": 23,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 48,
+    "seller_id": 2,
+    "product_id": 12,
+    "product_count_sold": 6,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 49,
+    "seller_id": 3,
+    "product_id": 8,
+    "product_count_sold": 253,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 50,
+    "seller_id": 3,
+    "product_id": 9,
+    "product_count_sold": 369,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 51,
+    "seller_id": 3,
+    "product_id": 10,
+    "product_count_sold": 351,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 52,
+    "seller_id": 3,
+    "product_id": 8,
+    "product_count_sold": 164,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 53,
+    "seller_id": 3,
+    "product_id": 9,
+    "product_count_sold": 286,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 54,
+    "seller_id": 3,
+    "product_id": 10,
+    "product_count_sold": 234,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 55,
+    "seller_id": 4,
+    "product_id": 13,
+    "product_count_sold": 273,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 56,
+    "seller_id": 4,
+    "product_id": 14,
+    "product_count_sold": 165,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 57,
+    "seller_id": 4,
+    "product_id": 15,
+    "product_count_sold": 239,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 58,
+    "seller_id": 4,
+    "product_id": 13,
+    "product_count_sold": 145,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 59,
+    "seller_id": 4,
+    "product_id": 14,
+    "product_count_sold": 273,
+    "date_sale": "2023-11-21"
+  },
+
+  {
+    "sale_id": 60,
+    "seller_id": 4,
+    "product_id": 15,
+    "product_count_sold": 351,
+    "date_sale": "2023-11-21"
+  }
+]
